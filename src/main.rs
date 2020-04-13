@@ -8,6 +8,7 @@ mod group_anagrams;
 mod counting_elements;
 mod middle_of_the_linked_list;
 mod backspace_string_compare;
+mod min_stack;
 
 fn main() {
     println!("Hello, world!");
