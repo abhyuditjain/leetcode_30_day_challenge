@@ -13,3 +13,5 @@ mod diameter_of_binary_tree;
 mod last_stone_weight;
 pub mod contiguous_array;
 pub mod perform_string_shifts;
+pub mod walking_robot_simulation;
+pub mod product_of_array_except_self;
