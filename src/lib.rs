@@ -19,3 +19,4 @@ pub mod maximum_level_sum_of_binary_tree;
 pub mod valid_parenthesis_string;
 pub mod corporate_flight_bookings;
 pub mod four_sum_ii;
+pub mod number_of_islands;
