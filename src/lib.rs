@@ -30,3 +30,4 @@ pub mod lru_cache;
 pub mod jump_game;
 pub mod longest_common_subsequence;
 pub mod maximal_square;
+pub mod first_unique_number;
