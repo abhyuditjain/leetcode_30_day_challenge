@@ -25,3 +25,4 @@ pub mod search_in_rotated_sorted_array;
 pub mod construct_binary_search_tree_from_preorder_traversal;
 pub mod leftmost_column_with_at_least_a_one;
 pub mod subarray_sum_equals_k;
+pub mod bitwise_and_of_numbers_range;
