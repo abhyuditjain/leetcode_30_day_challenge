@@ -29,3 +29,4 @@ pub mod bitwise_and_of_numbers_range;
 pub mod lru_cache;
 pub mod jump_game;
 pub mod longest_common_subsequence;
+pub mod maximal_square;
