@@ -27,3 +27,4 @@ pub mod leftmost_column_with_at_least_a_one;
 pub mod subarray_sum_equals_k;
 pub mod bitwise_and_of_numbers_range;
 pub mod lru_cache;
+pub mod jump_game;
