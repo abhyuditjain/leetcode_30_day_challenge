@@ -31,3 +31,4 @@ pub mod jump_game;
 pub mod longest_common_subsequence;
 pub mod maximal_square;
 pub mod first_unique_number;
+pub mod binary_tree_maximum_path_sum;
